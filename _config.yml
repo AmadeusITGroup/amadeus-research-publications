@@ -1,0 +1,11 @@
+title: Amadeus Research — Scientific Publications
+description: Scientific publications from the Amadeus Research team
+theme: jekyll-theme-primer
+
+url: https://amadeusitgroup.github.io
+baseurl: /amadeus-research-publications
+
+# Contributor-facing files that should not become site pages
+exclude:
+  - publications/TEMPLATE.md
+  - publications/README.md
