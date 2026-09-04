@@ -1,5 +1,18 @@
 # Amadeus Research — Scientific Publications
 
+### 2026
+
+| Title | Authors | Venue | Link |
+|:------|:--------|:------|:-----|
+| Evaluating Demographics Effect in Policy-Governed Tool-Using Agents Across Real-World Service Domains | Driouich, I.; Cao, H.; Thomas, E. | EMNLP Findings | — |
+| Blind Spots in Agent Evaluation: A Survey, Coverage Analysis, and New Missions for NLP | Cao, H.; Driouich, I.; Thomas, E. | EMNLP Findings | — |
+| Beyond Task Completion: Revealing Corrupt Success in LLM Agents Through Procedure-Aware Evaluation | Cao, H.; Driouich, I.; Thomas, E. | ECML-PKDD | — |
+| Bigger Does Not Mean Fairer: Scalable, Interpretable, and Intersectional Bias Auditing for Creative LLM Tasks | Cao, H.; Thomas, E.; Acuna-Agost, R. | BIAS @ ECML-PKDD | — |
+| Reducing Per-Sample Interference in Stochastic Optimization | Avranas, A. | ICML | [arXiv](https://arxiv.org/abs/2607.16261) |
+| Scaling the Bait: Discussing the Feasibility of Pure Honeypots in Large-Scale Production Environments | Chiapponi, E.; Costanza, C.; Rigal, V.; Thonnard, O.; Buozis, M.; Gentric, P. | EDCC | — |
+| Traffic on Modern Booking Platforms: Methods, Insights, and Current Challenges | Fontana, U.; Chiapponi, E.; Costanza, C.; Rigal, V.; Thonnard, O.; Buozis, M. et al. | ANUBIS/SECAI @ ESORICS | — |
+| Beyond Status Codes: Enforcing Process Integrity When AI Agents Call Your APIs | Cao, H. | Nordic APIs Summit | [Nordic APIs](https://nordicapis.com/) |
+
 ### 2025
 
 | Title | Authors | Venue | Link |
@@ -13,9 +26,9 @@
 | GenAI for API | de Antonio, J.; Cao, H.; Tsolaku, A. | Platform Summit | [Nordic APIs](https://nordicapis.com/events/platform-summit-2025/) |
 | [Semantic Adapter for Universal Text Embeddings: Diagnosing and Mitigating Negation Blindness to Enhance Universality](publications/semantic-adapter-universal-text-embeddings.md) | Cao, H. | ECAI | [arXiv](https://arxiv.org/abs/2504.00584) |
 | [Holistic Analysis on the Sustainability of Federated Learning Lifecycle in Real-World Industrial Settings](publications/holistic-analysis-federated-learning-sustainability.md) | Cao, H. | ECAI | [IOS Press](https://dx.doi.org/10.3233/FAIA413) |
-| [Diverse and Private Synthetic Datasets Generation for RAG Evaluation: A Multi-Agent Framework](publications/diverse-private-synthetic-datasets-rag.md) | Driouch, I.; Cao, H.; Thomas, E. | TRUST-AI @ ECAI | [arXiv](https://arxiv.org/abs/2508.18929) |
+| [Diverse and Private Synthetic Datasets Generation for RAG Evaluation: A Multi-Agent Framework](publications/diverse-private-synthetic-datasets-rag.md) | Driouich, I.; Cao, H.; Thomas, E. | TRUST-AI @ ECAI | [arXiv](https://arxiv.org/abs/2508.18929) |
 | Choice Modeling with Context Effects: Generalization for Observational Data | Babutsidze, Z.; Rand, W. et al. | J. Behavioral Decision Making | [Wiley](https://doi.org/10.1002/bdm.700) |
-| [Multi-Agent LLM Judge: Automatic Personalized LLM Judge Design for Evaluating NLG Applications](publications/multi-agent-llm-judge.md) | Cao, H.; Driouch, I.; Thomas, E. | LLAIS @ ECAI | [arXiv](https://arxiv.org/abs/2504.02867) |
+| [Multi-Agent LLM Judge: Automatic Personalized LLM Judge Design for Evaluating NLG Applications](publications/multi-agent-llm-judge.md) | Cao, H.; Driouich, I.; Thomas, E. | LLAIS @ ECAI | [arXiv](https://arxiv.org/abs/2504.02867) |
 | Mix It Up: Improving Performance in Travel Choice Modeling | Avranas, A.; Maaroufi, M.; Lhéritier, A.; Acuna-Agost, R.; Thomas, E. | RecTour @ RecSys | [CEUR-WS](https://ceur-ws.org/Vol-4052/paper1.pdf) |
 | Application of Quantum Computing in Choice-Based Network Revenue Management | Dalgaard, M.; Boulanger, A. et al. | J. Revenue and Pricing Management | [Springer](https://link.springer.com/article/10.1057/s41272-025-00527-8) |
 | Detecting Scrapers on E-commerce Websites Using a Reduced Feature Set | Fontana, U.; Chiapponi, E. et al. | IEEE/IFIP DSN | [IEEE](https://doi.org/10.1109/DSN-S65789.2025.00073) |
