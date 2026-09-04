@@ -6,7 +6,7 @@ year: 2025
 
 # Semantic Adapter for Universal Text Embeddings: Diagnosing and Mitigating Negation Blindness to Enhance Universality
 
-[← Back to Publications](/Amadeus-publications/)
+[← Back to Publications](/amadeus-research-publications/)
 
 ## Publication Details
 
@@ -42,4 +42,4 @@ Negation plays an important role in various natural language processing tasks su
 
 ---
 
-[← Back to Publications](/Amadeus-publications/)
+[← Back to Publications](/amadeus-research-publications/)

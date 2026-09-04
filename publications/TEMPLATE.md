@@ -6,7 +6,7 @@ year: 2025
 
 # Full Publication Title Here
 
-[← Back to Publications](/Amadeus-publications/)
+[← Back to Publications](/amadeus-research-publications/)
 
 ## Publication Details
 
@@ -42,4 +42,4 @@ year: 2025
 
 ---
 
-[← Back to Publications](/Amadeus-publications/)
+[← Back to Publications](/amadeus-research-publications/)

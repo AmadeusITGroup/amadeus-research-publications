@@ -6,7 +6,7 @@ year: 2023
 
 # Inclusive normalization of face images to passport format
 
-[← Back to Publications](/Amadeus-publications/)
+[← Back to Publications](/amadeus-research-publications/)
 
 ## Publication Details
 
@@ -41,4 +41,4 @@ Face recognition has been used more and more in real world applications in recen
 
 ---
 
-[← Back to Publications](/Amadeus-publications/)
+[← Back to Publications](/amadeus-research-publications/)

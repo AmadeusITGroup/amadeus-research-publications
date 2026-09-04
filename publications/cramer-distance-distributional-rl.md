@@ -6,7 +6,7 @@ year: 2022
 
 # A Cramér Distance Perspective on Quantile Regression Based Distributional Reinforcement Learning
 
-[← Back to Publications](/Amadeus-publications/)
+[← Back to Publications](/amadeus-research-publications/)
 
 ## Publication Details
 
@@ -42,4 +42,4 @@ Distributional reinforcement learning (DRL) extends the value-based approach by 
 
 ---
 
-[← Back to Publications](/Amadeus-publications/)
+[← Back to Publications](/amadeus-research-publications/)

@@ -6,7 +6,7 @@ year: 2023
 
 # Multi-view user representation learning for user matching without personal information
 
-[← Back to Publications](/Amadeus-publications/)
+[← Back to Publications](/amadeus-research-publications/)
 
 ## Publication Details
 
@@ -43,4 +43,4 @@ As the digitization of travel industry accelerates, analyzing and understanding 
 
 ---
 
-[← Back to Publications](/Amadeus-publications/)
+[← Back to Publications](/amadeus-research-publications/)

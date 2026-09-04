@@ -6,7 +6,7 @@ year: 2020
 
 # PCMC-Net: Feature-Based Pairwise Choice Markov Chains
 
-[← Back to Publications](/Amadeus-publications/)
+[← Back to Publications](/amadeus-research-publications/)
 
 ## Publication Details
 
@@ -42,4 +42,4 @@ PCMC-Net is a novel choice modeling framework that combines deep neural networks
 
 ---
 
-[← Back to Publications](/Amadeus-publications/)
+[← Back to Publications](/amadeus-research-publications/)

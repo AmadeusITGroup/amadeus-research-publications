@@ -6,7 +6,7 @@ year: 2024
 
 # Recent Advances in Text Embedding: A Comprehensive Review of Top-Performing Methods on the MTEB Benchmark
 
-[← Back to Publications](/Amadeus-publications/)
+[← Back to Publications](/amadeus-research-publications/)
 
 ## Publication Details
 
@@ -41,4 +41,4 @@ Text embedding methods have become increasingly popular in both industrial and a
 
 ---
 
-[← Back to Publications](/Amadeus-publications/)
+[← Back to Publications](/amadeus-research-publications/)

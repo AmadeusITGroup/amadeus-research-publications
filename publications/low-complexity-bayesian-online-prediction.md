@@ -6,7 +6,7 @@ year: 2019
 
 # Low-Complexity Nonparametric Bayesian Online Prediction with Universal Guarantees
 
-[← Back to Publications](/Amadeus-publications/)
+[← Back to Publications](/amadeus-research-publications/)
 
 ## Publication Details
 
@@ -41,4 +41,4 @@ This paper proposes a nonparametric Bayesian method for online sequence predicti
 
 ---
 
-[← Back to Publications](/Amadeus-publications/)
+[← Back to Publications](/amadeus-research-publications/)

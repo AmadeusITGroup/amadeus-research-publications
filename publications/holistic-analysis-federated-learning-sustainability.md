@@ -6,7 +6,7 @@ year: 2025
 
 # Holistic analysis on the sustainability of Federated Learning lifecycle in real-world industrial settings
 
-[← Back to Publications](/Amadeus-publications/)
+[← Back to Publications](/amadeus-research-publications/)
 
 ## Publication Details
 
@@ -40,4 +40,4 @@ In light of emerging legal requirements and policies focused on privacy protecti
 
 ---
 
-[← Back to Publications](/Amadeus-publications/)
+[← Back to Publications](/amadeus-research-publications/)

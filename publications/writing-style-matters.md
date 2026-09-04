@@ -6,7 +6,7 @@ year: 2025
 
 # Writing Style Matters: An Examination of Bias and Fairness in Information Retrieval Systems
 
-[← Back to Publications](/Amadeus-publications/)
+[← Back to Publications](/amadeus-research-publications/)
 
 ## Publication Details
 
@@ -43,4 +43,4 @@ year: 2025
 
 ---
 
-[← Back to Publications](/Amadeus-publications/)
+[← Back to Publications](/amadeus-research-publications/)

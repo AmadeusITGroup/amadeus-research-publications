@@ -6,7 +6,7 @@ year: 2017
 
 # Deep Choice Model Using Pointer Networks for Airline Itinerary Prediction
 
-[← Back to Publications](/Amadeus-publications/)
+[← Back to Publications](/amadeus-research-publications/)
 
 ## Publication Details
 
@@ -42,4 +42,4 @@ This paper presents a novel deep learning choice model for predicting which airl
 
 ---
 
-[← Back to Publications](/Amadeus-publications/)
+[← Back to Publications](/amadeus-research-publications/)

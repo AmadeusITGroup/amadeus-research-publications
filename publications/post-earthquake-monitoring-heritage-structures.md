@@ -6,7 +6,7 @@ year: 2026
 
 # Preserving the World Heritage: Post-Earthquake Monitoring Based on Structural Break Testing with Deep Temporal Convolutional Features
 
-[← Back to Publications](/Amadeus-publications/)
+[← Back to Publications](/amadeus-research-publications/)
 
 ## Publication Details
 
@@ -42,4 +42,4 @@ Built heritage faces nowadays increasing vulnerability due to the combined impac
 
 ---
 
-[← Back to Publications](/Amadeus-publications/)
+[← Back to Publications](/amadeus-research-publications/)

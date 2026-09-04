@@ -6,7 +6,7 @@ year: 2025
 
 # Variational Inference for Quantum HyperNetworks
 
-[← Back to Publications](/Amadeus-publications/)
+[← Back to Publications](/amadeus-research-publications/)
 
 ## Publication Details
 
@@ -40,4 +40,4 @@ Binary Neural Networks (BiNNs), which employ single-bit precision weights, have 
 
 ---
 
-[← Back to Publications](/Amadeus-publications/)
+[← Back to Publications](/amadeus-research-publications/)
