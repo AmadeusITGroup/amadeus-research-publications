@@ -6,11 +6,11 @@ year: 2025
 
 # Diverse and Private Synthetic Datasets Generation for RAG Evaluation: A Multi-Agent Framework
 
-[← Back to Publications](/Amadeus-publications/)
+[← Back to Publications](/amadeus-research-publications/)
 
 ## Publication Details
 
-- **Authors:** Driouch, I.; Cao, H.; Thomas, E.
+- **Authors:** Driouich, I.; Cao, H.; Thomas, E.
 - **Venue:** TRUST-AI @ ECAI 2025
 - **Year:** 2025
 - **Link:** [arXiv](https://arxiv.org/abs/2508.18929)
@@ -42,4 +42,4 @@ Retrieval-augmented generation (RAG) systems improve large language model output
 
 ---
 
-[← Back to Publications](/Amadeus-publications/)
+[← Back to Publications](/amadeus-research-publications/)

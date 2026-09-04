@@ -6,11 +6,11 @@ year: 2025
 
 # Multi-Agent LLM Judge: Automatic Personalized LLM Judge Design for Evaluating NLG Applications
 
-[← Back to Publications](/Amadeus-publications/)
+[← Back to Publications](/amadeus-research-publications/)
 
 ## Publication Details
 
-- **Authors:** Cao, H.; Driouch, I.; Thomas, E.
+- **Authors:** Cao, H.; Driouich, I.; Thomas, E.
 - **Venue:** LLAIS @ ECAI 2025
 - **Year:** 2025
 - **Link:** [arXiv](https://arxiv.org/abs/2504.02867)
@@ -42,4 +42,4 @@ Large Language Models (LLMs) have demonstrated impressive performance across div
 
 ---
 
-[← Back to Publications](/Amadeus-publications/)
+[← Back to Publications](/amadeus-research-publications/)
